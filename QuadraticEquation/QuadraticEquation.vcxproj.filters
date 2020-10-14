@@ -18,6 +18,9 @@
     <ClInclude Include="Discriminant.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Show.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.c">
